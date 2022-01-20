@@ -1,0 +1,289 @@
+C:\Users\MIXO\Downloads\Hasif\pEMROGRAMAN LANJUT\FP\inventtaris\inventtaris\obj\Debug\netcoreapp3.1\inventtaris.csproj.AssemblyReference.cache
+C:\Users\MIXO\Downloads\Hasif\pEMROGRAMAN LANJUT\FP\inventtaris\inventtaris\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\MIXO\Downloads\Hasif\pEMROGRAMAN LANJUT\FP\inventtaris\inventtaris\obj\Debug\netcoreapp3.1\view\login.g.cs
+C:\Users\MIXO\Downloads\Hasif\pEMROGRAMAN LANJUT\FP\inventtaris\inventtaris\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\MIXO\Downloads\Hasif\pEMROGRAMAN LANJUT\FP\inventtaris\inventtaris\obj\Debug\netcoreapp3.1\inventtaris_MarkupCompile.cache
+C:\Users\MIXO\Downloads\Hasif\pEMROGRAMAN LANJUT\FP\inventtaris\inventtaris\obj\Debug\netcoreapp3.1\inventtaris_MarkupCompile.lref
+C:\Users\MIXO\Downloads\Hasif\pEMROGRAMAN LANJUT\FP\inventtaris\inventtaris\bin\Debug\netcoreapp3.1\inventtaris.exe
+C:\Users\MIXO\Downloads\Hasif\pEMROGRAMAN LANJUT\FP\inventtaris\inventtaris\bin\Debug\netcoreapp3.1\inventtaris.deps.json
+C:\Users\MIXO\Downloads\Hasif\pEMROGRAMAN LANJUT\FP\inventtaris\inventtaris\bin\Debug\netcoreapp3.1\inventtaris.runtimeconfig.json
+C:\Users\MIXO\Downloads\Hasif\pEMROGRAMAN LANJUT\FP\inventtaris\inventtaris\bin\Debug\netcoreapp3.1\inventtaris.runtimeconfig.dev.json
+C:\Users\MIXO\Downloads\Hasif\pEMROGRAMAN LANJUT\FP\inventtaris\inventtaris\bin\Debug\netcoreapp3.1\inventtaris.dll
+C:\Users\MIXO\Downloads\Hasif\pEMROGRAMAN LANJUT\FP\inventtaris\inventtaris\bin\Debug\netcoreapp3.1\inventtaris.pdb
+C:\Users\MIXO\Downloads\Hasif\pEMROGRAMAN LANJUT\FP\inventtaris\inventtaris\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\MIXO\Downloads\Hasif\pEMROGRAMAN LANJUT\FP\inventtaris\inventtaris\obj\Debug\netcoreapp3.1\view\login.baml
+C:\Users\MIXO\Downloads\Hasif\pEMROGRAMAN LANJUT\FP\inventtaris\inventtaris\obj\Debug\netcoreapp3.1\inventtaris.g.resources
+C:\Users\MIXO\Downloads\Hasif\pEMROGRAMAN LANJUT\FP\inventtaris\inventtaris\obj\Debug\netcoreapp3.1\inventtaris.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MIXO\Downloads\Hasif\pEMROGRAMAN LANJUT\FP\inventtaris\inventtaris\obj\Debug\netcoreapp3.1\inventtaris.AssemblyInfoInputs.cache
+C:\Users\MIXO\Downloads\Hasif\pEMROGRAMAN LANJUT\FP\inventtaris\inventtaris\obj\Debug\netcoreapp3.1\inventtaris.AssemblyInfo.cs
+C:\Users\MIXO\Downloads\Hasif\pEMROGRAMAN LANJUT\FP\inventtaris\inventtaris\obj\Debug\netcoreapp3.1\inventtaris.csproj.CoreCompileInputs.cache
+C:\Users\MIXO\Downloads\Hasif\pEMROGRAMAN LANJUT\FP\inventtaris\inventtaris\obj\Debug\netcoreapp3.1\inventtaris.dll
+C:\Users\MIXO\Downloads\Hasif\pEMROGRAMAN LANJUT\FP\inventtaris\inventtaris\obj\Debug\netcoreapp3.1\inventtaris.pdb
+C:\Users\MIXO\Downloads\Hasif\pEMROGRAMAN LANJUT\FP\inventtaris\inventtaris\obj\Debug\netcoreapp3.1\inventtaris.genruntimeconfig.cache
+C:\Users\MIXO\Downloads\Hasif\pEMROGRAMAN LANJUT\FP\inventtaris\inventtaris\obj\Debug\netcoreapp3.1\view\Dash.g.cs
+C:\Users\MIXO\Downloads\Hasif\pEMROGRAMAN LANJUT\FP\inventtaris\inventtaris\obj\Debug\netcoreapp3.1\view\Dash.baml
+C:\Users\MIXO\Downloads\Hasif\pEMROGRAMAN LANJUT\FP\inventtaris\inventtaris\obj\Debug\netcoreapp3.1\view\pageBarang.g.cs
+C:\Users\MIXO\Downloads\Hasif\pEMROGRAMAN LANJUT\FP\inventtaris\inventtaris\obj\Debug\netcoreapp3.1\view\pageHome.g.cs
+C:\Users\MIXO\Downloads\Hasif\pEMROGRAMAN LANJUT\FP\inventtaris\inventtaris\obj\Debug\netcoreapp3.1\view\pageMember.g.cs
+C:\Users\MIXO\Downloads\Hasif\pEMROGRAMAN LANJUT\FP\inventtaris\inventtaris\obj\Debug\netcoreapp3.1\view\pagePeminjaman.g.cs
+C:\Users\MIXO\Downloads\Hasif\pEMROGRAMAN LANJUT\FP\inventtaris\inventtaris\obj\Debug\netcoreapp3.1\view\pagePengembalian.g.cs
+C:\Users\MIXO\Downloads\Hasif\pEMROGRAMAN LANJUT\FP\inventtaris\inventtaris\obj\Debug\netcoreapp3.1\view\pageBarang.baml
+C:\Users\MIXO\Downloads\Hasif\pEMROGRAMAN LANJUT\FP\inventtaris\inventtaris\obj\Debug\netcoreapp3.1\view\pageHome.baml
+C:\Users\MIXO\Downloads\Hasif\pEMROGRAMAN LANJUT\FP\inventtaris\inventtaris\obj\Debug\netcoreapp3.1\view\pageMember.baml
+C:\Users\MIXO\Downloads\Hasif\pEMROGRAMAN LANJUT\FP\inventtaris\inventtaris\obj\Debug\netcoreapp3.1\view\pagePeminjaman.baml
+C:\Users\MIXO\Downloads\Hasif\pEMROGRAMAN LANJUT\FP\inventtaris\inventtaris\obj\Debug\netcoreapp3.1\view\pagePengembalian.baml
+C:\Users\hasip\Documents\Kuliah\Pemrograman Lanjut\Inventaris\final-project-inventaris-sem-3\inventtaris\bin\Debug\netcoreapp3.1\inventtaris.exe
+C:\Users\hasip\Documents\Kuliah\Pemrograman Lanjut\Inventaris\final-project-inventaris-sem-3\inventtaris\bin\Debug\netcoreapp3.1\inventtaris.deps.json
+C:\Users\hasip\Documents\Kuliah\Pemrograman Lanjut\Inventaris\final-project-inventaris-sem-3\inventtaris\bin\Debug\netcoreapp3.1\inventtaris.runtimeconfig.json
+C:\Users\hasip\Documents\Kuliah\Pemrograman Lanjut\Inventaris\final-project-inventaris-sem-3\inventtaris\bin\Debug\netcoreapp3.1\inventtaris.runtimeconfig.dev.json
+C:\Users\hasip\Documents\Kuliah\Pemrograman Lanjut\Inventaris\final-project-inventaris-sem-3\inventtaris\bin\Debug\netcoreapp3.1\inventtaris.dll
+C:\Users\hasip\Documents\Kuliah\Pemrograman Lanjut\Inventaris\final-project-inventaris-sem-3\inventtaris\bin\Debug\netcoreapp3.1\inventtaris.pdb
+C:\Users\hasip\Documents\Kuliah\Pemrograman Lanjut\Inventaris\final-project-inventaris-sem-3\inventtaris\obj\Debug\netcoreapp3.1\inventtaris.csproj.AssemblyReference.cache
+C:\Users\hasip\Documents\Kuliah\Pemrograman Lanjut\Inventaris\final-project-inventaris-sem-3\inventtaris\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\hasip\Documents\Kuliah\Pemrograman Lanjut\Inventaris\final-project-inventaris-sem-3\inventtaris\obj\Debug\netcoreapp3.1\view\Dash.g.cs
+C:\Users\hasip\Documents\Kuliah\Pemrograman Lanjut\Inventaris\final-project-inventaris-sem-3\inventtaris\obj\Debug\netcoreapp3.1\view\login.g.cs
+C:\Users\hasip\Documents\Kuliah\Pemrograman Lanjut\Inventaris\final-project-inventaris-sem-3\inventtaris\obj\Debug\netcoreapp3.1\view\pageBarang.g.cs
+C:\Users\hasip\Documents\Kuliah\Pemrograman Lanjut\Inventaris\final-project-inventaris-sem-3\inventtaris\obj\Debug\netcoreapp3.1\view\pageHome.g.cs
+C:\Users\hasip\Documents\Kuliah\Pemrograman Lanjut\Inventaris\final-project-inventaris-sem-3\inventtaris\obj\Debug\netcoreapp3.1\view\pageMember.g.cs
+C:\Users\hasip\Documents\Kuliah\Pemrograman Lanjut\Inventaris\final-project-inventaris-sem-3\inventtaris\obj\Debug\netcoreapp3.1\view\pagePeminjaman.g.cs
+C:\Users\hasip\Documents\Kuliah\Pemrograman Lanjut\Inventaris\final-project-inventaris-sem-3\inventtaris\obj\Debug\netcoreapp3.1\view\pagePengembalian.g.cs
+C:\Users\hasip\Documents\Kuliah\Pemrograman Lanjut\Inventaris\final-project-inventaris-sem-3\inventtaris\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\hasip\Documents\Kuliah\Pemrograman Lanjut\Inventaris\final-project-inventaris-sem-3\inventtaris\obj\Debug\netcoreapp3.1\inventtaris_MarkupCompile.cache
+C:\Users\hasip\Documents\Kuliah\Pemrograman Lanjut\Inventaris\final-project-inventaris-sem-3\inventtaris\obj\Debug\netcoreapp3.1\inventtaris_MarkupCompile.lref
+C:\Users\hasip\Documents\Kuliah\Pemrograman Lanjut\Inventaris\final-project-inventaris-sem-3\inventtaris\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\hasip\Documents\Kuliah\Pemrograman Lanjut\Inventaris\final-project-inventaris-sem-3\inventtaris\obj\Debug\netcoreapp3.1\view\Dash.baml
+C:\Users\hasip\Documents\Kuliah\Pemrograman Lanjut\Inventaris\final-project-inventaris-sem-3\inventtaris\obj\Debug\netcoreapp3.1\view\login.baml
+C:\Users\hasip\Documents\Kuliah\Pemrograman Lanjut\Inventaris\final-project-inventaris-sem-3\inventtaris\obj\Debug\netcoreapp3.1\view\pageBarang.baml
+C:\Users\hasip\Documents\Kuliah\Pemrograman Lanjut\Inventaris\final-project-inventaris-sem-3\inventtaris\obj\Debug\netcoreapp3.1\view\pageHome.baml
+C:\Users\hasip\Documents\Kuliah\Pemrograman Lanjut\Inventaris\final-project-inventaris-sem-3\inventtaris\obj\Debug\netcoreapp3.1\view\pageMember.baml
+C:\Users\hasip\Documents\Kuliah\Pemrograman Lanjut\Inventaris\final-project-inventaris-sem-3\inventtaris\obj\Debug\netcoreapp3.1\view\pagePeminjaman.baml
+C:\Users\hasip\Documents\Kuliah\Pemrograman Lanjut\Inventaris\final-project-inventaris-sem-3\inventtaris\obj\Debug\netcoreapp3.1\view\pagePengembalian.baml
+C:\Users\hasip\Documents\Kuliah\Pemrograman Lanjut\Inventaris\final-project-inventaris-sem-3\inventtaris\obj\Debug\netcoreapp3.1\inventtaris.g.resources
+C:\Users\hasip\Documents\Kuliah\Pemrograman Lanjut\Inventaris\final-project-inventaris-sem-3\inventtaris\obj\Debug\netcoreapp3.1\inventtaris.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hasip\Documents\Kuliah\Pemrograman Lanjut\Inventaris\final-project-inventaris-sem-3\inventtaris\obj\Debug\netcoreapp3.1\inventtaris.AssemblyInfoInputs.cache
+C:\Users\hasip\Documents\Kuliah\Pemrograman Lanjut\Inventaris\final-project-inventaris-sem-3\inventtaris\obj\Debug\netcoreapp3.1\inventtaris.AssemblyInfo.cs
+C:\Users\hasip\Documents\Kuliah\Pemrograman Lanjut\Inventaris\final-project-inventaris-sem-3\inventtaris\obj\Debug\netcoreapp3.1\inventtaris.csproj.CoreCompileInputs.cache
+C:\Users\hasip\Documents\Kuliah\Pemrograman Lanjut\Inventaris\final-project-inventaris-sem-3\inventtaris\obj\Debug\netcoreapp3.1\inventtaris.dll
+C:\Users\hasip\Documents\Kuliah\Pemrograman Lanjut\Inventaris\final-project-inventaris-sem-3\inventtaris\obj\Debug\netcoreapp3.1\inventtaris.pdb
+C:\Users\hasip\Documents\Kuliah\Pemrograman Lanjut\Inventaris\final-project-inventaris-sem-3\inventtaris\obj\Debug\netcoreapp3.1\inventtaris.genruntimeconfig.cache
+C:\Users\hasip\Documents\Kuliah\Pemrograman Lanjut\Inventaris\final-project-inventaris-sem-3\inventtaris\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\hasip\Documents\Kuliah\Pemrograman Lanjut\Inventaris\final-project-inventaris-sem-3\inventtaris\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\hasip\Documents\Kuliah\Pemrograman Lanjut\Inventaris\final-project-inventaris-sem-3\inventtaris\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\hasip\Documents\Kuliah\Pemrograman Lanjut\Inventaris\final-project-inventaris-sem-3\inventtaris\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\hasip\Documents\Kuliah\Pemrograman Lanjut\Inventaris\final-project-inventaris-sem-3\inventtaris\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\hasip\Documents\Kuliah\Pemrograman Lanjut\Inventaris\final-project-inventaris-sem-3\inventtaris\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\hasip\Documents\Kuliah\Pemrograman Lanjut\Inventaris\final-project-inventaris-sem-3\inventtaris\obj\Debug\netcoreapp3.1\inventtaris.csproj.CopyComplete
+C:\Users\hasip\Documents\Kuliah\Pemrograman Lanjut\Inventaris\final-project-inventaris-sem-3\inventtaris\obj\Debug\netcoreapp3.1\view\pageAdmin.g.cs
+C:\Users\hasip\Documents\Kuliah\Pemrograman Lanjut\Inventaris\final-project-inventaris-sem-3\inventtaris\obj\Debug\netcoreapp3.1\view\pageAdmin.baml
+C:\Users\Ahmad mubarak\Downloads\New folder\final-project-inventaris-sem-3-master\inventtaris\obj\Debug\netcoreapp3.1\inventtaris.csprojAssemblyReference.cache
+C:\Users\Ahmad mubarak\Downloads\New folder\final-project-inventaris-sem-3-master\inventtaris\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Ahmad mubarak\Downloads\New folder\final-project-inventaris-sem-3-master\inventtaris\obj\Debug\netcoreapp3.1\view\Dash.g.cs
+C:\Users\Ahmad mubarak\Downloads\New folder\final-project-inventaris-sem-3-master\inventtaris\obj\Debug\netcoreapp3.1\view\login.g.cs
+C:\Users\Ahmad mubarak\Downloads\New folder\final-project-inventaris-sem-3-master\inventtaris\obj\Debug\netcoreapp3.1\view\pageAdmin.g.cs
+C:\Users\Ahmad mubarak\Downloads\New folder\final-project-inventaris-sem-3-master\inventtaris\obj\Debug\netcoreapp3.1\view\pageBarang.g.cs
+C:\Users\Ahmad mubarak\Downloads\New folder\final-project-inventaris-sem-3-master\inventtaris\obj\Debug\netcoreapp3.1\view\pageHome.g.cs
+C:\Users\Ahmad mubarak\Downloads\New folder\final-project-inventaris-sem-3-master\inventtaris\obj\Debug\netcoreapp3.1\view\pageMember.g.cs
+C:\Users\Ahmad mubarak\Downloads\New folder\final-project-inventaris-sem-3-master\inventtaris\obj\Debug\netcoreapp3.1\view\pagePeminjaman.g.cs
+C:\Users\Ahmad mubarak\Downloads\New folder\final-project-inventaris-sem-3-master\inventtaris\obj\Debug\netcoreapp3.1\view\pagePengembalian.g.cs
+C:\Users\Ahmad mubarak\Downloads\New folder\final-project-inventaris-sem-3-master\inventtaris\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Ahmad mubarak\Downloads\New folder\final-project-inventaris-sem-3-master\inventtaris\obj\Debug\netcoreapp3.1\inventtaris_MarkupCompile.cache
+C:\Users\Ahmad mubarak\Downloads\New folder\final-project-inventaris-sem-3-master\inventtaris\obj\Debug\netcoreapp3.1\inventtaris_MarkupCompile.lref
+C:\Users\Ahmad mubarak\Downloads\New folder\final-project-inventaris-sem-3-master\inventtaris\obj\Debug\netcoreapp3.1\inventtaris.dll
+C:\Users\Ahmad mubarak\Downloads\New folder\final-project-inventaris-sem-3-master\inventtaris\obj\Debug\netcoreapp3.1\inventtaris.pdb
+C:\Users\Ahmad mubarak\Downloads\New folder\final-project-inventaris-sem-3-master\inventtaris\bin\Debug\netcoreapp3.1\inventtaris.exe
+C:\Users\Ahmad mubarak\Downloads\New folder\final-project-inventaris-sem-3-master\inventtaris\bin\Debug\netcoreapp3.1\inventtaris.deps.json
+C:\Users\Ahmad mubarak\Downloads\New folder\final-project-inventaris-sem-3-master\inventtaris\bin\Debug\netcoreapp3.1\inventtaris.runtimeconfig.json
+C:\Users\Ahmad mubarak\Downloads\New folder\final-project-inventaris-sem-3-master\inventtaris\bin\Debug\netcoreapp3.1\inventtaris.runtimeconfig.dev.json
+C:\Users\Ahmad mubarak\Downloads\New folder\final-project-inventaris-sem-3-master\inventtaris\bin\Debug\netcoreapp3.1\inventtaris.dll
+C:\Users\Ahmad mubarak\Downloads\New folder\final-project-inventaris-sem-3-master\inventtaris\bin\Debug\netcoreapp3.1\inventtaris.pdb
+C:\Users\Ahmad mubarak\Downloads\New folder\final-project-inventaris-sem-3-master\inventtaris\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Ahmad mubarak\Downloads\New folder\final-project-inventaris-sem-3-master\inventtaris\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Ahmad mubarak\Downloads\New folder\final-project-inventaris-sem-3-master\inventtaris\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Ahmad mubarak\Downloads\New folder\final-project-inventaris-sem-3-master\inventtaris\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Ahmad mubarak\Downloads\New folder\final-project-inventaris-sem-3-master\inventtaris\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Ahmad mubarak\Downloads\New folder\final-project-inventaris-sem-3-master\inventtaris\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Ahmad mubarak\Downloads\New folder\final-project-inventaris-sem-3-master\inventtaris\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\Ahmad mubarak\Downloads\New folder\final-project-inventaris-sem-3-master\inventtaris\obj\Debug\netcoreapp3.1\view\Dash.baml
+C:\Users\Ahmad mubarak\Downloads\New folder\final-project-inventaris-sem-3-master\inventtaris\obj\Debug\netcoreapp3.1\view\login.baml
+C:\Users\Ahmad mubarak\Downloads\New folder\final-project-inventaris-sem-3-master\inventtaris\obj\Debug\netcoreapp3.1\view\pageAdmin.baml
+C:\Users\Ahmad mubarak\Downloads\New folder\final-project-inventaris-sem-3-master\inventtaris\obj\Debug\netcoreapp3.1\view\pageBarang.baml
+C:\Users\Ahmad mubarak\Downloads\New folder\final-project-inventaris-sem-3-master\inventtaris\obj\Debug\netcoreapp3.1\view\pageHome.baml
+C:\Users\Ahmad mubarak\Downloads\New folder\final-project-inventaris-sem-3-master\inventtaris\obj\Debug\netcoreapp3.1\view\pageMember.baml
+C:\Users\Ahmad mubarak\Downloads\New folder\final-project-inventaris-sem-3-master\inventtaris\obj\Debug\netcoreapp3.1\view\pagePeminjaman.baml
+C:\Users\Ahmad mubarak\Downloads\New folder\final-project-inventaris-sem-3-master\inventtaris\obj\Debug\netcoreapp3.1\view\pagePengembalian.baml
+C:\Users\Ahmad mubarak\Downloads\New folder\final-project-inventaris-sem-3-master\inventtaris\obj\Debug\netcoreapp3.1\inventtaris.g.resources
+C:\Users\Ahmad mubarak\Downloads\New folder\final-project-inventaris-sem-3-master\inventtaris\obj\Debug\netcoreapp3.1\inventtaris.AssemblyInfoInputs.cache
+C:\Users\Ahmad mubarak\Downloads\New folder\final-project-inventaris-sem-3-master\inventtaris\obj\Debug\netcoreapp3.1\inventtaris.AssemblyInfo.cs
+C:\Users\Ahmad mubarak\Downloads\New folder\final-project-inventaris-sem-3-master\inventtaris\obj\Debug\netcoreapp3.1\inventtaris.csproj.CoreCompileInputs.cache
+C:\Users\Ahmad mubarak\Downloads\New folder\final-project-inventaris-sem-3-master\inventtaris\obj\Debug\netcoreapp3.1\inventtaris.csproj.CopyComplete
+C:\Users\Ahmad mubarak\Downloads\New folder\final-project-inventaris-sem-3-master\inventtaris\obj\Debug\netcoreapp3.1\inventtaris.genruntimeconfig.cache
+D:\pemrograman\final-project-inventaris-sem-3-master\inventtaris\bin\Debug\netcoreapp3.1\inventtaris.exe
+D:\pemrograman\final-project-inventaris-sem-3-master\inventtaris\bin\Debug\netcoreapp3.1\inventtaris.deps.json
+D:\pemrograman\final-project-inventaris-sem-3-master\inventtaris\bin\Debug\netcoreapp3.1\inventtaris.runtimeconfig.json
+D:\pemrograman\final-project-inventaris-sem-3-master\inventtaris\bin\Debug\netcoreapp3.1\inventtaris.runtimeconfig.dev.json
+D:\pemrograman\final-project-inventaris-sem-3-master\inventtaris\bin\Debug\netcoreapp3.1\inventtaris.dll
+D:\pemrograman\final-project-inventaris-sem-3-master\inventtaris\bin\Debug\netcoreapp3.1\inventtaris.pdb
+D:\pemrograman\final-project-inventaris-sem-3-master\inventtaris\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\pemrograman\final-project-inventaris-sem-3-master\inventtaris\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\pemrograman\final-project-inventaris-sem-3-master\inventtaris\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\pemrograman\final-project-inventaris-sem-3-master\inventtaris\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\pemrograman\final-project-inventaris-sem-3-master\inventtaris\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\pemrograman\final-project-inventaris-sem-3-master\inventtaris\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\pemrograman\final-project-inventaris-sem-3-master\inventtaris\obj\Debug\netcoreapp3.1\inventtaris.csproj.AssemblyReference.cache
+D:\pemrograman\final-project-inventaris-sem-3-master\inventtaris\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+D:\pemrograman\final-project-inventaris-sem-3-master\inventtaris\obj\Debug\netcoreapp3.1\view\Dash.g.cs
+D:\pemrograman\final-project-inventaris-sem-3-master\inventtaris\obj\Debug\netcoreapp3.1\view\login.g.cs
+D:\pemrograman\final-project-inventaris-sem-3-master\inventtaris\obj\Debug\netcoreapp3.1\view\pageAdmin.g.cs
+D:\pemrograman\final-project-inventaris-sem-3-master\inventtaris\obj\Debug\netcoreapp3.1\view\pageBarang.g.cs
+D:\pemrograman\final-project-inventaris-sem-3-master\inventtaris\obj\Debug\netcoreapp3.1\view\pageHome.g.cs
+D:\pemrograman\final-project-inventaris-sem-3-master\inventtaris\obj\Debug\netcoreapp3.1\view\pageMember.g.cs
+D:\pemrograman\final-project-inventaris-sem-3-master\inventtaris\obj\Debug\netcoreapp3.1\view\pagePeminjaman.g.cs
+D:\pemrograman\final-project-inventaris-sem-3-master\inventtaris\obj\Debug\netcoreapp3.1\view\pagePengembalian.g.cs
+D:\pemrograman\final-project-inventaris-sem-3-master\inventtaris\obj\Debug\netcoreapp3.1\App.g.cs
+D:\pemrograman\final-project-inventaris-sem-3-master\inventtaris\obj\Debug\netcoreapp3.1\inventtaris_MarkupCompile.cache
+D:\pemrograman\final-project-inventaris-sem-3-master\inventtaris\obj\Debug\netcoreapp3.1\inventtaris_MarkupCompile.lref
+D:\pemrograman\final-project-inventaris-sem-3-master\inventtaris\obj\Debug\netcoreapp3.1\MainWindow.baml
+D:\pemrograman\final-project-inventaris-sem-3-master\inventtaris\obj\Debug\netcoreapp3.1\view\Dash.baml
+D:\pemrograman\final-project-inventaris-sem-3-master\inventtaris\obj\Debug\netcoreapp3.1\view\login.baml
+D:\pemrograman\final-project-inventaris-sem-3-master\inventtaris\obj\Debug\netcoreapp3.1\view\pageAdmin.baml
+D:\pemrograman\final-project-inventaris-sem-3-master\inventtaris\obj\Debug\netcoreapp3.1\view\pageBarang.baml
+D:\pemrograman\final-project-inventaris-sem-3-master\inventtaris\obj\Debug\netcoreapp3.1\view\pageHome.baml
+D:\pemrograman\final-project-inventaris-sem-3-master\inventtaris\obj\Debug\netcoreapp3.1\view\pageMember.baml
+D:\pemrograman\final-project-inventaris-sem-3-master\inventtaris\obj\Debug\netcoreapp3.1\view\pagePeminjaman.baml
+D:\pemrograman\final-project-inventaris-sem-3-master\inventtaris\obj\Debug\netcoreapp3.1\view\pagePengembalian.baml
+D:\pemrograman\final-project-inventaris-sem-3-master\inventtaris\obj\Debug\netcoreapp3.1\inventtaris.g.resources
+D:\pemrograman\final-project-inventaris-sem-3-master\inventtaris\obj\Debug\netcoreapp3.1\inventtaris.AssemblyInfoInputs.cache
+D:\pemrograman\final-project-inventaris-sem-3-master\inventtaris\obj\Debug\netcoreapp3.1\inventtaris.AssemblyInfo.cs
+D:\pemrograman\final-project-inventaris-sem-3-master\inventtaris\obj\Debug\netcoreapp3.1\inventtaris.csproj.CoreCompileInputs.cache
+D:\pemrograman\final-project-inventaris-sem-3-master\inventtaris\obj\Debug\netcoreapp3.1\inventtaris.csproj.CopyComplete
+D:\pemrograman\final-project-inventaris-sem-3-master\inventtaris\obj\Debug\netcoreapp3.1\inventtaris.dll
+D:\pemrograman\final-project-inventaris-sem-3-master\inventtaris\obj\Debug\netcoreapp3.1\inventtaris.pdb
+D:\pemrograman\final-project-inventaris-sem-3-master\inventtaris\obj\Debug\netcoreapp3.1\inventtaris.genruntimeconfig.cache
+C:\Users\hasip\Documents\Kuliah\Pemrograman Lanjut\Final Projek\inventaris\inventtaris\bin\Debug\netcoreapp3.1\inventtaris.exe
+C:\Users\hasip\Documents\Kuliah\Pemrograman Lanjut\Final Projek\inventaris\inventtaris\bin\Debug\netcoreapp3.1\inventtaris.deps.json
+C:\Users\hasip\Documents\Kuliah\Pemrograman Lanjut\Final Projek\inventaris\inventtaris\bin\Debug\netcoreapp3.1\inventtaris.runtimeconfig.json
+C:\Users\hasip\Documents\Kuliah\Pemrograman Lanjut\Final Projek\inventaris\inventtaris\bin\Debug\netcoreapp3.1\inventtaris.runtimeconfig.dev.json
+C:\Users\hasip\Documents\Kuliah\Pemrograman Lanjut\Final Projek\inventaris\inventtaris\bin\Debug\netcoreapp3.1\inventtaris.dll
+C:\Users\hasip\Documents\Kuliah\Pemrograman Lanjut\Final Projek\inventaris\inventtaris\bin\Debug\netcoreapp3.1\inventtaris.pdb
+C:\Users\hasip\Documents\Kuliah\Pemrograman Lanjut\Final Projek\inventaris\inventtaris\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\hasip\Documents\Kuliah\Pemrograman Lanjut\Final Projek\inventaris\inventtaris\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\hasip\Documents\Kuliah\Pemrograman Lanjut\Final Projek\inventaris\inventtaris\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\hasip\Documents\Kuliah\Pemrograman Lanjut\Final Projek\inventaris\inventtaris\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\hasip\Documents\Kuliah\Pemrograman Lanjut\Final Projek\inventaris\inventtaris\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\hasip\Documents\Kuliah\Pemrograman Lanjut\Final Projek\inventaris\inventtaris\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\hasip\Documents\Kuliah\Pemrograman Lanjut\Final Projek\inventaris\inventtaris\obj\Debug\netcoreapp3.1\inventtaris.csproj.AssemblyReference.cache
+C:\Users\hasip\Documents\Kuliah\Pemrograman Lanjut\Final Projek\inventaris\inventtaris\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\hasip\Documents\Kuliah\Pemrograman Lanjut\Final Projek\inventaris\inventtaris\obj\Debug\netcoreapp3.1\view\Dash.g.cs
+C:\Users\hasip\Documents\Kuliah\Pemrograman Lanjut\Final Projek\inventaris\inventtaris\obj\Debug\netcoreapp3.1\view\login.g.cs
+C:\Users\hasip\Documents\Kuliah\Pemrograman Lanjut\Final Projek\inventaris\inventtaris\obj\Debug\netcoreapp3.1\view\pageAdmin.g.cs
+C:\Users\hasip\Documents\Kuliah\Pemrograman Lanjut\Final Projek\inventaris\inventtaris\obj\Debug\netcoreapp3.1\view\pageBarang.g.cs
+C:\Users\hasip\Documents\Kuliah\Pemrograman Lanjut\Final Projek\inventaris\inventtaris\obj\Debug\netcoreapp3.1\view\pageHome.g.cs
+C:\Users\hasip\Documents\Kuliah\Pemrograman Lanjut\Final Projek\inventaris\inventtaris\obj\Debug\netcoreapp3.1\view\pageMember.g.cs
+C:\Users\hasip\Documents\Kuliah\Pemrograman Lanjut\Final Projek\inventaris\inventtaris\obj\Debug\netcoreapp3.1\view\pagePeminjaman.g.cs
+C:\Users\hasip\Documents\Kuliah\Pemrograman Lanjut\Final Projek\inventaris\inventtaris\obj\Debug\netcoreapp3.1\view\pagePengembalian.g.cs
+C:\Users\hasip\Documents\Kuliah\Pemrograman Lanjut\Final Projek\inventaris\inventtaris\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\hasip\Documents\Kuliah\Pemrograman Lanjut\Final Projek\inventaris\inventtaris\obj\Debug\netcoreapp3.1\inventtaris_MarkupCompile.cache
+C:\Users\hasip\Documents\Kuliah\Pemrograman Lanjut\Final Projek\inventaris\inventtaris\obj\Debug\netcoreapp3.1\inventtaris_MarkupCompile.lref
+C:\Users\hasip\Documents\Kuliah\Pemrograman Lanjut\Final Projek\inventaris\inventtaris\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\hasip\Documents\Kuliah\Pemrograman Lanjut\Final Projek\inventaris\inventtaris\obj\Debug\netcoreapp3.1\view\Dash.baml
+C:\Users\hasip\Documents\Kuliah\Pemrograman Lanjut\Final Projek\inventaris\inventtaris\obj\Debug\netcoreapp3.1\view\login.baml
+C:\Users\hasip\Documents\Kuliah\Pemrograman Lanjut\Final Projek\inventaris\inventtaris\obj\Debug\netcoreapp3.1\view\pageAdmin.baml
+C:\Users\hasip\Documents\Kuliah\Pemrograman Lanjut\Final Projek\inventaris\inventtaris\obj\Debug\netcoreapp3.1\view\pageBarang.baml
+C:\Users\hasip\Documents\Kuliah\Pemrograman Lanjut\Final Projek\inventaris\inventtaris\obj\Debug\netcoreapp3.1\view\pageHome.baml
+C:\Users\hasip\Documents\Kuliah\Pemrograman Lanjut\Final Projek\inventaris\inventtaris\obj\Debug\netcoreapp3.1\view\pageMember.baml
+C:\Users\hasip\Documents\Kuliah\Pemrograman Lanjut\Final Projek\inventaris\inventtaris\obj\Debug\netcoreapp3.1\view\pagePeminjaman.baml
+C:\Users\hasip\Documents\Kuliah\Pemrograman Lanjut\Final Projek\inventaris\inventtaris\obj\Debug\netcoreapp3.1\view\pagePengembalian.baml
+C:\Users\hasip\Documents\Kuliah\Pemrograman Lanjut\Final Projek\inventaris\inventtaris\obj\Debug\netcoreapp3.1\inventtaris.g.resources
+C:\Users\hasip\Documents\Kuliah\Pemrograman Lanjut\Final Projek\inventaris\inventtaris\obj\Debug\netcoreapp3.1\inventtaris.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hasip\Documents\Kuliah\Pemrograman Lanjut\Final Projek\inventaris\inventtaris\obj\Debug\netcoreapp3.1\inventtaris.AssemblyInfoInputs.cache
+C:\Users\hasip\Documents\Kuliah\Pemrograman Lanjut\Final Projek\inventaris\inventtaris\obj\Debug\netcoreapp3.1\inventtaris.AssemblyInfo.cs
+C:\Users\hasip\Documents\Kuliah\Pemrograman Lanjut\Final Projek\inventaris\inventtaris\obj\Debug\netcoreapp3.1\inventtaris.csproj.CoreCompileInputs.cache
+C:\Users\hasip\Documents\Kuliah\Pemrograman Lanjut\Final Projek\inventaris\inventtaris\obj\Debug\netcoreapp3.1\inventtaris.csproj.CopyComplete
+C:\Users\hasip\Documents\Kuliah\Pemrograman Lanjut\Final Projek\inventaris\inventtaris\obj\Debug\netcoreapp3.1\inventtaris.dll
+C:\Users\hasip\Documents\Kuliah\Pemrograman Lanjut\Final Projek\inventaris\inventtaris\obj\Debug\netcoreapp3.1\inventtaris.pdb
+C:\Users\hasip\Documents\Kuliah\Pemrograman Lanjut\Final Projek\inventaris\inventtaris\obj\Debug\netcoreapp3.1\inventtaris.genruntimeconfig.cache
+C:\Users\user\Downloads\inventaris\inventtaris\bin\Debug\netcoreapp3.1\inventtaris.exe
+C:\Users\user\Downloads\inventaris\inventtaris\bin\Debug\netcoreapp3.1\inventtaris.deps.json
+C:\Users\user\Downloads\inventaris\inventtaris\bin\Debug\netcoreapp3.1\inventtaris.runtimeconfig.json
+C:\Users\user\Downloads\inventaris\inventtaris\bin\Debug\netcoreapp3.1\inventtaris.runtimeconfig.dev.json
+C:\Users\user\Downloads\inventaris\inventtaris\bin\Debug\netcoreapp3.1\inventtaris.dll
+C:\Users\user\Downloads\inventaris\inventtaris\bin\Debug\netcoreapp3.1\inventtaris.pdb
+C:\Users\user\Downloads\inventaris\inventtaris\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\user\Downloads\inventaris\inventtaris\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\user\Downloads\inventaris\inventtaris\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\user\Downloads\inventaris\inventtaris\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\user\Downloads\inventaris\inventtaris\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\user\Downloads\inventaris\inventtaris\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\user\Downloads\inventaris\inventtaris\obj\Debug\netcoreapp3.1\inventtaris.csprojAssemblyReference.cache
+C:\Users\user\Downloads\inventaris\inventtaris\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\user\Downloads\inventaris\inventtaris\obj\Debug\netcoreapp3.1\view\Dash.g.cs
+C:\Users\user\Downloads\inventaris\inventtaris\obj\Debug\netcoreapp3.1\view\login.g.cs
+C:\Users\user\Downloads\inventaris\inventtaris\obj\Debug\netcoreapp3.1\view\pageAdmin.g.cs
+C:\Users\user\Downloads\inventaris\inventtaris\obj\Debug\netcoreapp3.1\view\pageBarang.g.cs
+C:\Users\user\Downloads\inventaris\inventtaris\obj\Debug\netcoreapp3.1\view\pageHome.g.cs
+C:\Users\user\Downloads\inventaris\inventtaris\obj\Debug\netcoreapp3.1\view\pageMember.g.cs
+C:\Users\user\Downloads\inventaris\inventtaris\obj\Debug\netcoreapp3.1\view\pagePeminjaman.g.cs
+C:\Users\user\Downloads\inventaris\inventtaris\obj\Debug\netcoreapp3.1\view\pagePengembalian.g.cs
+C:\Users\user\Downloads\inventaris\inventtaris\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\user\Downloads\inventaris\inventtaris\obj\Debug\netcoreapp3.1\inventtaris_MarkupCompile.cache
+C:\Users\user\Downloads\inventaris\inventtaris\obj\Debug\netcoreapp3.1\inventtaris_MarkupCompile.lref
+C:\Users\user\Downloads\inventaris\inventtaris\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\user\Downloads\inventaris\inventtaris\obj\Debug\netcoreapp3.1\view\Dash.baml
+C:\Users\user\Downloads\inventaris\inventtaris\obj\Debug\netcoreapp3.1\view\login.baml
+C:\Users\user\Downloads\inventaris\inventtaris\obj\Debug\netcoreapp3.1\view\pageAdmin.baml
+C:\Users\user\Downloads\inventaris\inventtaris\obj\Debug\netcoreapp3.1\view\pageBarang.baml
+C:\Users\user\Downloads\inventaris\inventtaris\obj\Debug\netcoreapp3.1\view\pageHome.baml
+C:\Users\user\Downloads\inventaris\inventtaris\obj\Debug\netcoreapp3.1\view\pageMember.baml
+C:\Users\user\Downloads\inventaris\inventtaris\obj\Debug\netcoreapp3.1\view\pagePeminjaman.baml
+C:\Users\user\Downloads\inventaris\inventtaris\obj\Debug\netcoreapp3.1\view\pagePengembalian.baml
+C:\Users\user\Downloads\inventaris\inventtaris\obj\Debug\netcoreapp3.1\inventtaris.g.resources
+C:\Users\user\Downloads\inventaris\inventtaris\obj\Debug\netcoreapp3.1\inventtaris.AssemblyInfoInputs.cache
+C:\Users\user\Downloads\inventaris\inventtaris\obj\Debug\netcoreapp3.1\inventtaris.AssemblyInfo.cs
+C:\Users\user\Downloads\inventaris\inventtaris\obj\Debug\netcoreapp3.1\inventtaris.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\inventaris\inventtaris\obj\Debug\netcoreapp3.1\inventtaris.csproj.CopyComplete
+C:\Users\user\Downloads\inventaris\inventtaris\obj\Debug\netcoreapp3.1\inventtaris.dll
+C:\Users\user\Downloads\inventaris\inventtaris\obj\Debug\netcoreapp3.1\inventtaris.pdb
+C:\Users\user\Downloads\inventaris\inventtaris\obj\Debug\netcoreapp3.1\inventtaris.genruntimeconfig.cache
+C:\Users\hasip\Documents\Kuliah\Pemrograman Lanjut\Final Projek\inventaris2\inventaris\inventtaris\bin\Debug\netcoreapp3.1\inventtaris.exe
+C:\Users\hasip\Documents\Kuliah\Pemrograman Lanjut\Final Projek\inventaris2\inventaris\inventtaris\bin\Debug\netcoreapp3.1\inventtaris.deps.json
+C:\Users\hasip\Documents\Kuliah\Pemrograman Lanjut\Final Projek\inventaris2\inventaris\inventtaris\bin\Debug\netcoreapp3.1\inventtaris.runtimeconfig.json
+C:\Users\hasip\Documents\Kuliah\Pemrograman Lanjut\Final Projek\inventaris2\inventaris\inventtaris\bin\Debug\netcoreapp3.1\inventtaris.runtimeconfig.dev.json
+C:\Users\hasip\Documents\Kuliah\Pemrograman Lanjut\Final Projek\inventaris2\inventaris\inventtaris\bin\Debug\netcoreapp3.1\inventtaris.dll
+C:\Users\hasip\Documents\Kuliah\Pemrograman Lanjut\Final Projek\inventaris2\inventaris\inventtaris\bin\Debug\netcoreapp3.1\inventtaris.pdb
+C:\Users\hasip\Documents\Kuliah\Pemrograman Lanjut\Final Projek\inventaris2\inventaris\inventtaris\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\hasip\Documents\Kuliah\Pemrograman Lanjut\Final Projek\inventaris2\inventaris\inventtaris\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\hasip\Documents\Kuliah\Pemrograman Lanjut\Final Projek\inventaris2\inventaris\inventtaris\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\hasip\Documents\Kuliah\Pemrograman Lanjut\Final Projek\inventaris2\inventaris\inventtaris\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\hasip\Documents\Kuliah\Pemrograman Lanjut\Final Projek\inventaris2\inventaris\inventtaris\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\hasip\Documents\Kuliah\Pemrograman Lanjut\Final Projek\inventaris2\inventaris\inventtaris\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\hasip\Documents\Kuliah\Pemrograman Lanjut\Final Projek\inventaris2\inventaris\inventtaris\obj\Debug\netcoreapp3.1\inventtaris.csproj.AssemblyReference.cache
+C:\Users\hasip\Documents\Kuliah\Pemrograman Lanjut\Final Projek\inventaris2\inventaris\inventtaris\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\hasip\Documents\Kuliah\Pemrograman Lanjut\Final Projek\inventaris2\inventaris\inventtaris\obj\Debug\netcoreapp3.1\view\Dash.g.cs
+C:\Users\hasip\Documents\Kuliah\Pemrograman Lanjut\Final Projek\inventaris2\inventaris\inventtaris\obj\Debug\netcoreapp3.1\view\login.g.cs
+C:\Users\hasip\Documents\Kuliah\Pemrograman Lanjut\Final Projek\inventaris2\inventaris\inventtaris\obj\Debug\netcoreapp3.1\view\pageAdmin.g.cs
+C:\Users\hasip\Documents\Kuliah\Pemrograman Lanjut\Final Projek\inventaris2\inventaris\inventtaris\obj\Debug\netcoreapp3.1\view\pageBarang.g.cs
+C:\Users\hasip\Documents\Kuliah\Pemrograman Lanjut\Final Projek\inventaris2\inventaris\inventtaris\obj\Debug\netcoreapp3.1\view\pageHome.g.cs
+C:\Users\hasip\Documents\Kuliah\Pemrograman Lanjut\Final Projek\inventaris2\inventaris\inventtaris\obj\Debug\netcoreapp3.1\view\pageMember.g.cs
+C:\Users\hasip\Documents\Kuliah\Pemrograman Lanjut\Final Projek\inventaris2\inventaris\inventtaris\obj\Debug\netcoreapp3.1\view\pagePeminjaman.g.cs
+C:\Users\hasip\Documents\Kuliah\Pemrograman Lanjut\Final Projek\inventaris2\inventaris\inventtaris\obj\Debug\netcoreapp3.1\view\pagePengembalian.g.cs
+C:\Users\hasip\Documents\Kuliah\Pemrograman Lanjut\Final Projek\inventaris2\inventaris\inventtaris\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\hasip\Documents\Kuliah\Pemrograman Lanjut\Final Projek\inventaris2\inventaris\inventtaris\obj\Debug\netcoreapp3.1\inventtaris_MarkupCompile.cache
+C:\Users\hasip\Documents\Kuliah\Pemrograman Lanjut\Final Projek\inventaris2\inventaris\inventtaris\obj\Debug\netcoreapp3.1\inventtaris_MarkupCompile.lref
+C:\Users\hasip\Documents\Kuliah\Pemrograman Lanjut\Final Projek\inventaris2\inventaris\inventtaris\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\hasip\Documents\Kuliah\Pemrograman Lanjut\Final Projek\inventaris2\inventaris\inventtaris\obj\Debug\netcoreapp3.1\view\Dash.baml
+C:\Users\hasip\Documents\Kuliah\Pemrograman Lanjut\Final Projek\inventaris2\inventaris\inventtaris\obj\Debug\netcoreapp3.1\view\login.baml
+C:\Users\hasip\Documents\Kuliah\Pemrograman Lanjut\Final Projek\inventaris2\inventaris\inventtaris\obj\Debug\netcoreapp3.1\view\pageAdmin.baml
+C:\Users\hasip\Documents\Kuliah\Pemrograman Lanjut\Final Projek\inventaris2\inventaris\inventtaris\obj\Debug\netcoreapp3.1\view\pageBarang.baml
+C:\Users\hasip\Documents\Kuliah\Pemrograman Lanjut\Final Projek\inventaris2\inventaris\inventtaris\obj\Debug\netcoreapp3.1\view\pageHome.baml
+C:\Users\hasip\Documents\Kuliah\Pemrograman Lanjut\Final Projek\inventaris2\inventaris\inventtaris\obj\Debug\netcoreapp3.1\view\pageMember.baml
+C:\Users\hasip\Documents\Kuliah\Pemrograman Lanjut\Final Projek\inventaris2\inventaris\inventtaris\obj\Debug\netcoreapp3.1\view\pagePeminjaman.baml
+C:\Users\hasip\Documents\Kuliah\Pemrograman Lanjut\Final Projek\inventaris2\inventaris\inventtaris\obj\Debug\netcoreapp3.1\view\pagePengembalian.baml
+C:\Users\hasip\Documents\Kuliah\Pemrograman Lanjut\Final Projek\inventaris2\inventaris\inventtaris\obj\Debug\netcoreapp3.1\inventtaris.g.resources
+C:\Users\hasip\Documents\Kuliah\Pemrograman Lanjut\Final Projek\inventaris2\inventaris\inventtaris\obj\Debug\netcoreapp3.1\inventtaris.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hasip\Documents\Kuliah\Pemrograman Lanjut\Final Projek\inventaris2\inventaris\inventtaris\obj\Debug\netcoreapp3.1\inventtaris.AssemblyInfoInputs.cache
+C:\Users\hasip\Documents\Kuliah\Pemrograman Lanjut\Final Projek\inventaris2\inventaris\inventtaris\obj\Debug\netcoreapp3.1\inventtaris.AssemblyInfo.cs
+C:\Users\hasip\Documents\Kuliah\Pemrograman Lanjut\Final Projek\inventaris2\inventaris\inventtaris\obj\Debug\netcoreapp3.1\inventtaris.csproj.CoreCompileInputs.cache
+C:\Users\hasip\Documents\Kuliah\Pemrograman Lanjut\Final Projek\inventaris2\inventaris\inventtaris\obj\Debug\netcoreapp3.1\inventtaris.csproj.CopyComplete
+C:\Users\hasip\Documents\Kuliah\Pemrograman Lanjut\Final Projek\inventaris2\inventaris\inventtaris\obj\Debug\netcoreapp3.1\inventtaris.dll
+C:\Users\hasip\Documents\Kuliah\Pemrograman Lanjut\Final Projek\inventaris2\inventaris\inventtaris\obj\Debug\netcoreapp3.1\inventtaris.pdb
+C:\Users\hasip\Documents\Kuliah\Pemrograman Lanjut\Final Projek\inventaris2\inventaris\inventtaris\obj\Debug\netcoreapp3.1\inventtaris.genruntimeconfig.cache
